@@ -16,3 +16,7 @@ możemy ustawić miasto, promień wyszukiwania wokół tego miasta, oferowaną p
 * ul. Aleje Jerozolimskie,
 * Warszawa, Mazowieckie.
 ##### **element_split1** złapie pierwszą część, a **element_split2** drugi.
+
+## Podstawowa konfiguracja analizy
+
+Po wykonaniu scrapera powstanie plik **pracuj_pl_oferty.csv** w folderze wykonywania jupytera/skryptu - zmień jego nazwę na odpowiadającą oczekiwanemu przez ciebie skryptowi R i umieść go w tym samym folderze co ten skrypt R.
