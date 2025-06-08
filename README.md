@@ -19,4 +19,7 @@ możemy ustawić miasto, promień wyszukiwania wokół tego miasta, oferowaną p
 
 ## Podstawowa konfiguracja analizy
 
-Po wykonaniu scrapera powstanie plik **pracuj_pl_oferty.csv** w folderze wykonywania jupytera/skryptu - zmień jego nazwę na odpowiadającą oczekiwanemu przez ciebie skryptowi R i umieść go w tym samym folderze co ten skrypt R.
+Po wykonaniu scrapera powstanie plik **pracuj_pl_oferty.csv** w folderze wykonywania jupytera/skryptu - zmień jego nazwę i typ na odpowiadającą oczekiwanemu przez ciebie skryptowi R: 
+* dla Analiza_IT_benefity.R jest to pracuj_pl_IT.xlsx
+* dla Analiza_IT_technologie.R jest to pracuj_pl_IT.csv
+i umieść go w tym samym folderze co ten skrypt R.
